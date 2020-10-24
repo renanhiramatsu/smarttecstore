@@ -5,7 +5,7 @@ website: www.smarttecstore.com.br
 This is a website with more than 15 physical stores in Brazil that is adapting a new way of selling its products using e-commerce.
 
 # ❗ Future improvements
-- IOS / Android Application with UI made in React Native
+- IOS / Android Application with UI in React Native
 
 # 🔥 What I Used
 - WordPress Platform / Plugin insertions
