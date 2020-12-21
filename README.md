@@ -1,12 +1,20 @@
 # 📱 SmartTecStore
+application: closed source :(
 website: www.smarttecstore.com.br
 
+# 📱 Preview
+You can see the preview screenshots [here.](https://www.renanhiramatsu.com/#3)
+
 # ✏️  Description
-This is a website with more than 15 physical stores in Brazil that is adapting a new way of selling its products using e-commerce.
+This is an Android Application for an e-commerce.
+This store focuses more on where its physical stores is located (Brazil, Minas Gerais) so the app will follow delivery instructions and specs for that specific location.
 
 # ❗ Future improvements
-- IOS / Android Application with UI in React Native
+- IOS Application
 
 # 🔥 What I Used
-- WordPress Platform / Plugin insertions
-- PHP for debugging
+- Native Android (Android Studio, Java 15)
+- Firebase (Authentication, Real-Time Database, Miscellaneous Storage)
+
+# 👨 Contributors
+[@renanhiramatsu](https://www.linkedin.com/in/renan-hiramatsu-83583216a/)
